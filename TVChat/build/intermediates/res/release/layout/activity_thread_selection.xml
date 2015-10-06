@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".ThreadSelectionActivity" 
+    android:gravity="top"
+    android:orientation="vertical"
+    android:focusableInTouchMode="true"
+
+    >
+    
+ 	<ProgressBar
+         android:id="@+id/prgLoading"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+ 	/>
+    
+    <ListView android:id="@+id/list_thread"
+              android:layout_height="0dp"
+              android:layout_width="fill_parent"
+              android:layout_weight="1" 
+              />
+
+
+    <LinearLayout 
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent" 
+        >
+
+	<EditText
+	    android:id="@+id/textCreateConversation"
+	    android:layout_width="0dp"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"
+	    android:hint="Criar conversa"
+	    android:inputType="textCapSentences" />
+
+	<ImageButton 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:onClick="addThread"
+	    android:background="@drawable/ic_action_send_now"	    
+	    />
+	
+        
+    </LinearLayout>
+</LinearLayout>
+<!-- From: file:/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/src/main/res/layout/activity_thread_selection.xml -->

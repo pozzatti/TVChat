@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/actionBar"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:paddingLeft="5dp"
+    android:paddingTop="7dp"
+    android:orientation="horizontal" 
+    android:background="#DDDDDD" >
+    <TextView
+        android:id="@+id/titleFragment1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Selecione o canal"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:background="#DDDDDD" />
+</LinearLayout>
+<!-- From: file:/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/src/main/res/layout/custom_action_bar.xml -->

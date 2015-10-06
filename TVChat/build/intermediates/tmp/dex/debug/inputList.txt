@@ -1,0 +1,8 @@
+/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/build/intermediates/classes/debug
+/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e4a9166e14c1d46b4f80a07e67f0d7708a05e634.jar
+/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-7b98c7874f5205a28bc5d16717434bb05e5f2a53.jar
+/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/build/intermediates/pre-dexed/debug/android-query.0.26.7-dc2811619a29aff6bbe1edd755e158fda027e5e3.jar
+/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b274974626b2ed01ec8700a1c627d3d265565bc9.jar
+/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/build/intermediates/pre-dexed/debug/classes-744271f2cf48bc7244ceb29def4b12f779beb1ca.jar
+/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/build/intermediates/pre-dexed/debug/classes-fa19bd0b74e09c2801a6d4c9c7a6a427e709bf89.jar
+/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/build/intermediates/pre-dexed/debug/classes-6864204abada9566d1c006cf75e196da716f96c1.jar

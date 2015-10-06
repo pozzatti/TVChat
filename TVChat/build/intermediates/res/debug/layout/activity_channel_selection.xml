@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f8a243"
+    tools:context=".ChannelSelectionActivity"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+    <ProgressBar
+        android:id="@+id/prgLoading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="clip_vertical"
+        android:layout_centerHorizontal="true" />
+    
+    <ListView android:id="@+id/list_data"
+              android:layout_height="wrap_content"
+              android:divider="#FFFFFF"
+              android:layout_width="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" />
+
+</RelativeLayout>
+<!-- From: file:/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/src/main/res/layout/activity_channel_selection.xml -->

@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/LinearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="right"
+		android:background="#DDDDDD"       
+        android:orientation="vertical" >    
+    
+	<TextView
+            android:id="@+id/textComments"
+            android:layout_width="260dp"
+            android:minHeight="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="5dp"
+            android:gravity="top"
+            android:textSize="14sp"
+			android:paddingTop="5dp"
+			android:paddingLeft="5dp"
+			android:paddingRight="15dp"
+			android:paddingBottom="5dp"
+            android:background="@drawable/comments_me"
+	/>
+	<TextView
+        	android:id="@+id/textTime"
+        	android:layout_width="260dp"        	
+        	android:layout_height="wrap_content"
+        	android:layout_marginRight="5dp"
+        	android:gravity="right"
+        	android:textColor="#C5C5C5"
+        	android:textSize="12sp"
+	/>	
+</LinearLayout>
+<!-- From: file:/home/fpozzatti/AndroidstudioProjects/TVChat/TVChat/src/main/res/layout/comments_list_view_me.xml -->

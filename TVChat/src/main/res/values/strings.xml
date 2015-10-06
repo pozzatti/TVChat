@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TVChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_channel_selection">ChannelSelectionActivity</string>
+    <string name="title_activity_thread_selection">ThreadSelectionActivity</string>
+    <string name="title_activity_comments">CommentsActivity</string>
+    <string name="app_id">1558639274366251</string>
+    <string name="ad_unit_id">ca-app-pub-2387445125795538/6431118006</string>
+</resources>

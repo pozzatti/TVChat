@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FacebookSDK/FacebookSDK.iml" filepath="$PROJECT_DIR$/FacebookSDK/FacebookSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TVChat.iml" filepath="$PROJECT_DIR$/TVChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TVChat/TVChat-TVChat.iml" filepath="$PROJECT_DIR$/TVChat/TVChat-TVChat.iml" />
+    </modules>
+  </component>
+</project>
+

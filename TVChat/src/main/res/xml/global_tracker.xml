@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ga_sessionTimeout">300</integer>
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <!-- The screen names that will appear in reports -->
+    <screenName name="br.com.tvchat.LoginActivity">
+        TVChat Login
+    </screenName>
+    <screenName name="br.com.tvchat.ChannelSelectionActivity">
+        TVChat Canais
+    </screenName>
+    <screenName name="br.com.tvchat.ThreadSelectionActivity">
+        TVChat Conversas
+    </screenName>
+    <screenName name="br.com.tvchat.CommentsActivity">
+        TVChat Comentarios
+    </screenName>
+    <!--  The following value should be replaced with correct property id. -->
+    <string name="ga_trackingId">UA-60030178-1</string>
+</resources>
